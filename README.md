@@ -74,11 +74,11 @@ Although, following example inferences can be drawn from the dashboard:
 
 ### [2] Only Part-Time (filtered by employement type):
 
- Data Architect is undoubtedly the best part-time choice:
+ - Data Architect is undoubtedly the best part-time choice:
 
  ![dataarch](https://github.com/user-attachments/assets/b7ac7b87-bddf-4388-874a-782bc16bdbd5)
 
- On average, a part-time entry-level worker earns more than a more experienced one (mid level):
+ - On average, a part-time entry-level worker earns more than a more experienced one (mid level):
 
  ![da](https://github.com/user-attachments/assets/8f90a17c-3501-493d-9e63-15f5df809e19)
 
