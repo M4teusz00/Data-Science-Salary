@@ -52,29 +52,31 @@ Although, following inferences can be drawn from the dashboard:
 
 ### [1] With no filters:
  - The highest average salary is noticed in the USA = 157 702 $
+   
  ![map](https://github.com/user-attachments/assets/b29b6cdb-81cd-45fb-9fb3-07ce21537f91)
+ 
  - The highest salary is in the Medium companies = ~ 151K $
  - The lowest salary is in the Small companies = ~ 87K $
 
-![med](https://github.com/user-attachments/assets/901853e6-2b79-494c-afc2-ea222a52c57f)
+ ![med](https://github.com/user-attachments/assets/901853e6-2b79-494c-afc2-ea222a52c57f)
 
  - Analytics Engineering Manager earns the highest salary = 399 880 $
  ![dataman](https://github.com/user-attachments/assets/df3cd4ca-b34d-4abc-9ebe-1244c4e04056)
 
  - Salary difference between Entry and Executive experience level is over 100K $
-![lvl](https://github.com/user-attachments/assets/7a924753-115c-4315-a71e-97aadfc8eb15)
+ ![lvl](https://github.com/user-attachments/assets/7a924753-115c-4315-a71e-97aadfc8eb15)
 
  - From 2021 to 2024 average salary increased by 52K $
-![line](https://github.com/user-attachments/assets/d314e655-5a54-464c-a2dc-fadb26523369)
+ ![line](https://github.com/user-attachments/assets/d314e655-5a54-464c-a2dc-fadb26523369)
 
 ### [2] Only Part-Time (filtered by employement type):
-Data Architect is undoubtedly the best part-time choice:
+ Data Architect is undoubtedly the best part-time choice:
 
-![dataarch](https://github.com/user-attachments/assets/b7ac7b87-bddf-4388-874a-782bc16bdbd5)
+ ![dataarch](https://github.com/user-attachments/assets/b7ac7b87-bddf-4388-874a-782bc16bdbd5)
 
-On average, a part-time entry-level worker earns more than a more experienced one (mid level):
+ On average, a part-time entry-level worker earns more than a more experienced one (mid level):
 
-![da](https://github.com/user-attachments/assets/8f90a17c-3501-493d-9e63-15f5df809e19)
+ ![da](https://github.com/user-attachments/assets/8f90a17c-3501-493d-9e63-15f5df809e19)
 
 
 
